@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=61dafb"/>
 
 <div align="center">
-  <b>`Backend Developer`</b>
+  <code><b>Backend Developer</b></code>
   <samp>
       <br>
       Hello World! I'm <b>Rafael Rocha</b>

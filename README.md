@@ -18,10 +18,10 @@
       
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NKRaff&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKRaff&layout=compact&langs_count=16&theme=react&show_icons=true&hide_border=true"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKRaff&layout=compact&langs_count=16&theme=react&show_icons=true&hide_border=true&count_private=true"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NKRaff&theme=react"/>
+  <img align="center" alt="GitHub Contributions" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NKRaff&theme=react&count_private=true"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
